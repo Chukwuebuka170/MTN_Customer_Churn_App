@@ -4,7 +4,7 @@ This is a Streamlit app that predicts whether a customer is likely to churn base
 
 ### 🔍 Features:
 - Predict customer churn probability
-- Uses logistic regression model
+- Uses gradient boosting model
 - Interactive UI built with Streamlit
 
 ### 🚀 How to Run
